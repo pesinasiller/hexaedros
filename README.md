@@ -1,5 +1,6 @@
 # ❑
 
+![](img/1.png)
 
 Demostración de **Three.js** con **React.js** y **Tone.js** usando **react-three-renderer**.
 
